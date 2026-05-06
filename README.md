@@ -1,5 +1,3 @@
-# aws-solutions-architect-saa-c03
-
 # AWS Certified Solutions Architect – Associate (SAA-C03)
 
 ## Guia de Estudo Completo
